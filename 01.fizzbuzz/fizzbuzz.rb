@@ -1,4 +1,4 @@
-1.upto(100) { |i|
+1.upto(20) { |i|
   if i % 5 === 0 && i % 3 === 0
     puts 'FizzBuzz'
   elsif i % 5 === 0
